@@ -1,0 +1,3 @@
+Проверка работы команды git pull
+#include <stdio.h>
+...
